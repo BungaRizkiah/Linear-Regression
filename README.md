@@ -1,4 +1,4 @@
-# Linear-Regression
+# Linear Regression Model using Boston Housing Data
 
 This project contains linear regression to predict boston housing price. The data used here is a public source boston housing data from 1978. Yes, it is outdated but still widely used. 
 
