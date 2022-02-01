@@ -30,3 +30,7 @@ On this file:
 
 How to run this model:
 Open the file using Jupyter notebook
+
+
+Boston Housing Data 
+![A test image](Skewness.png)
